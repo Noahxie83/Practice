@@ -8,7 +8,6 @@
 输出一行一个整数，表示小玉最多能买多少只签字笔。
 */
 #include <stdio.h>
-
 int main(){
     int a,b;
     scanf("%d %d",&a,&b);
